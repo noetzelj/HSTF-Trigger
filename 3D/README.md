@@ -9,6 +9,8 @@ Based off version 1...a couple of design update ideas
 4) Use clip screws to firmly mount into place
 5) Provide multiple 1/4 #20 bolt connections so easily mountable - include hotshoe mount option
 5) Parasitic power from radio battery - must work with regular and extended power
+6) Need ability to swap battery out easily - may require split parasite adapter
+7) Need to expose the arduino USB connectior for software updates
 
 Step 1)
 - Build radio back base plate
