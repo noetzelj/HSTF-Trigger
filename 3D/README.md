@@ -10,6 +10,9 @@ Based off version 1...a couple of design update ideas
 5) Provide multiple 1/4 #20 bolt connections so easily mountable - include hotshoe mount option
 5) Parasitic power from radio battery - must work with regular and extended power
 6) Need ability to swap battery out easily - may require split parasite adapter
+    - Build based off small battery size
+    - Have slider built in....so can extend to larger battery size
+    - Maybe have "pressure" mount screws on battery bottom side to have more points of contact?
 7) Need to expose the arduino USB connectior for software updates
 
 Step 1)
