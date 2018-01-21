@@ -12,5 +12,5 @@ Based off version 1...a couple of design update ideas
 
 Step 1)
 - Build radio back base plate
-  - screw in plate with PTT lock
+  - screw in plate with PTT lock (M2.5..approx length 10mm)
   - allow for bolts / screws for later circuit board mounting
