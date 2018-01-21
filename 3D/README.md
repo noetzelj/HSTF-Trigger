@@ -19,3 +19,5 @@ Step 1)
 - Build radio back base plate
   - screw in plate with PTT lock (M2.5..approx length 10mm)
   - allow for bolts / screws for later circuit board mounting
+  
+- using OPENSCAD...I've found that building things incrementally in modules, etc is the way to go...
